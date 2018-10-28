@@ -1,0 +1,18 @@
+HUMAN ++++ Hey
+BOT ++++ roebuck roebuck roebuck roebuck clobber clobber flix flix flix flix flix flix flix flix flix flix flix weasel weasel
+HUMAN ++++ Nancy is cool
+BOT ++++ roebuck roebuck complexes complexes complexes complexes complexes complexes complexes complexes inherent inherent inherent weasel weasel weasel weasel weasel weasel
+=============================================
+HUMAN ++++ Hi
+BOT ++++ what
+HUMAN ++++ nancy is cool
+BOT ++++ 
+HUMAN ++++ Hello
+BOT ++++ what
+HUMAN ++++ why
+BOT ++++ i
+HUMAN ++++ cool
+BOT ++++ what
+HUMAN ++++ new
+BOT ++++ what
+=============================================
